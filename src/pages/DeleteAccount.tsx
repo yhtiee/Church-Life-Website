@@ -187,6 +187,7 @@ export function DeleteAccount() {
               <li>Your sign-in details and profile</li>
               <li>Group memberships and group chat messages</li>
               <li>Notifications, requests and activity history</li>
+              <li>Questions you asked and the answers you were given</li>
             </ul>
 
             <h3>What your parish keeps</h3>

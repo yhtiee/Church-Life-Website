@@ -75,6 +75,14 @@ const sections: DocSection[] = [
                 <td>So the parish can offer the Mass you requested</td>
               </tr>
               <tr>
+                <td>Questions you ask</td>
+                <td>
+                  The questions you type into Ask a Question, and the answers given, kept as your conversation
+                  history
+                </td>
+                <td>So you can return to past answers, and so we can keep the feature working fairly for everyone</td>
+              </tr>
+              <tr>
                 <td>Device information</td>
                 <td>A push notification token for your device</td>
                 <td>To send you parish notifications, if you allow them</td>
@@ -145,6 +153,10 @@ const sections: DocSection[] = [
           <li>
             <strong>Apple and Google</strong>: delivering push notifications to your device.
           </li>
+          <li>
+            <strong>Magisterium AI</strong>: answering the questions you ask in Ask a Question. Your question is
+            sent to them to be answered; your name, email address and parish are not.
+          </li>
         </ul>
         <p>
           Some buttons in the app open WhatsApp so you can message your parish or our support team. Anything you send
@@ -163,8 +175,8 @@ const sections: DocSection[] = [
         <p>When you delete your account:</p>
         <ul>
           <li>
-            Your sign-in details, profile, group memberships, group chat messages, notifications, requests and activity
-            history are deleted straight away.
+            Your sign-in details, profile, group memberships, group chat messages, notifications, requests, saved
+            questions and activity history are deleted straight away.
           </li>
           <li>
             Support records, pledges and Mass intention bookings are <strong>kept by your parish</strong> because they

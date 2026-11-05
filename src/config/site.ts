@@ -21,7 +21,7 @@ export const site = {
   supportHours: 'Monday to Friday, 9am to 5pm WAT',
 
   appStoreUrl: '[App Store URL]',
-  playStoreUrl: '[Google Play URL]',
+  playStoreUrl: 'https://play.google.com/store/apps/details?id=com.yhutiee.churchlifeapp&pcampaignid=web_share',
 
   policiesEffective: '9/24/2026',
 } as const;
